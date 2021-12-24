@@ -56,13 +56,13 @@ function janken(tangan) {
 
     switch (jariKen) {
         case 0:
-            ken.style.backgroundImage = "url(./img/ken-batu.png)";
+            ken.style.backgroundImage = "url(ken-batu.png)";
             break;
         case 1:
-            ken.style.backgroundImage = "url(./img/ken-gunting.png)";
+            ken.style.backgroundImage = "url(ken-gunting.png)";
             break;
         default:
-            ken.style.backgroundImage = "url(./img/ken-kertas.png)";
+            ken.style.backgroundImage = "url(ken-kertas.png)";
             break;
     }
 
