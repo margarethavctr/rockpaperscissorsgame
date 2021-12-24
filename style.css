@@ -53,7 +53,7 @@ button {
     width: 100%;
     margin: auto;
     padding: 165px 15px 15px;
-    background: url(./img/favicon.png) center top no-repeat;
+    background: url(/favicon.png) center top no-repeat;
     background-size: 180px;
 }
 
@@ -103,7 +103,7 @@ button {
     display: inline-block;
     width: 100%;
     height: 280px;
-    background-image: url(./img/ken.png);
+    background-image: url(/ken.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -182,17 +182,17 @@ skor span+span {
 }
 
 .pilih #batu {
-    background: url(./img/player-batu.png) center center no-repeat;
+    background: url(/player-batu.png) center center no-repeat;
     background-size: contain;
 }
 
 .pilih #gunting {
-    background: url(./img/player-gunting.png) center center no-repeat;
+    background: url(/player-gunting.png) center center no-repeat;
     background-size: contain;
 }
 
 .pilih #kertas {
-    background: url(./img/player-kertas.png) center center no-repeat;
+    background: url(/player-kertas.png) center center no-repeat;
     background-size: contain;
 }
 
